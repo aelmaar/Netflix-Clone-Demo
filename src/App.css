@@ -129,3 +129,18 @@ body {
 	justify-content:center;
 	align-items:center;
 }
+@media all and (max-width:900px) {
+	iframe {
+		width:100vw;
+		height:400px;
+	}
+}
+@media all and (max-width:420px) {
+	.title {
+		font-size:2rem;
+	}
+	.description {
+		font-size:12px;
+		width:15rem;
+	}
+}
