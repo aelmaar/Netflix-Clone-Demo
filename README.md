@@ -1,6 +1,6 @@
 # Netflix Clone Project
 ### netflix clone demo app made with react js Hook
-
+https://netflix-demo1.web.app/
 ## Dependencies using:
 - react-youtube
 - movie-trailer
